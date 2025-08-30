@@ -12,6 +12,17 @@ Your Notes is a robust MERN Stack application designed to help users manage thei
 - **Responsive Design**: Works smoothly on desktops, tablets, and mobile devices.
 - **Real-time Updates**: Dynamic interface powered by React.
 
+## Screenshots
+
+### Homepage
+<img width="1364" height="618" alt="Screenshot 2025-08-31 003544" src="https://github.com/user-attachments/assets/0ee29c16-929c-4d7f-acc1-7906c74e15e8" />
+
+### Signup
+<img width="1364" height="615" alt="Screenshot 2025-08-31 003438" src="https://github.com/user-attachments/assets/1c1f925d-3e96-475d-8df9-ca82fc8460ca" />
+
+### Login
+<img width="1359" height="623" alt="Screenshot 2025-08-31 003425" src="https://github.com/user-attachments/assets/735fb980-bd19-4aaa-aa98-53faaed823b8" />
+
 ## Technology Stack
 
 - **Frontend**: React, React Router, Axios, Tailwind CSS
